@@ -1,12 +1,12 @@
 # YANG · 个人作品集
 
-围绕产品思考、体验设计与交互原型的个人展示站，呈现作品集页面的信息组织、视觉表达与基础交互。
+杨帅的个人作品集在线入口，展示 AI 产品案例、企业级 Agent、工业场景与交互原型。
 
-[▶ 在线预览](https://a15242408085-bot.github.io/yang-personal-workstation/)
+[▶ 在线预览](https://shawn-yang-ai-portfolio.briskthyme.chatgpt.site/)
 
-[![YANG · 个人作品集预览](preview.png)](https://a15242408085-bot.github.io/yang-personal-workstation/)
+[![YANG · 个人作品集预览](portfolio-preview.png)](https://shawn-yang-ai-portfolio.briskthyme.chatgpt.site/)
 
-本项目是一份静态作品集界面与交互原型。当前项目卡片、笔记和个人介绍中包含示例文案，仅用于展示页面结构与设计表达。
+线上个人站以以上新地址为准。本仓库保留早期静态作品集模板源码，其中示例项目、笔记及个人介绍仅用于展示页面结构与设计表达。
 
 ## 页面与交互
 
